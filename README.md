@@ -9,8 +9,8 @@ WARNA : DEDE
 python2 bangdjon.py
 
 # Tutorial Web Blog
-``
+```
 https://www. senitopeng .xyz
 ```
 
-<img src=".image/Bangdjon.png"/>
+<img src=".image/Bangdjon.png" />
