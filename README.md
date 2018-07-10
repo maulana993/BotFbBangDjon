@@ -10,7 +10,7 @@ python2 bangdjon.py
 
 # Tutorial Web Blog
 ``
-https://www.senitopeng.xyz
+https://www. senitopeng .xyz
 ```
 
 <img src=".image/Screenshot_20180401-083341.png">
