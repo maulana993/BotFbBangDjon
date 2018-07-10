@@ -13,4 +13,4 @@ python2 bangdjon.py
 https://www. senitopeng .xyz
 ```
 
-<img src=".image/Bangdjon.png"/>
+<img src=".image/Bangdjon.png">
